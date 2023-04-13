@@ -1,5 +1,5 @@
 # movies_api📺
-🎬 Build first API with a movies database 🎬
+🎬 Built first API with a movies database 🎬
 
 Movie ids:
 1. Avatar
